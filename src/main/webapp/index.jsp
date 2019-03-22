@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Demo Project</h2>
-<%=100+100%>
+<h2>My Demo Project</h2>
+<%=100+100+200%>
 </body>
 </html>
